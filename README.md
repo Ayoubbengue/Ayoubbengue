@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Ayoub Ben Guicher 👋
 
-<!--
-**Ayoubbengue/Ayoubbengue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Engineering Student  
+💻 Aspiring AI Engineer / Machine Learning Engineer
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an engineering student interested in Artificial Intelligence,
+Machine Learning, Data Science and Software Development.
+
+I enjoy building practical projects and learning new technologies.
+
+## 🛠️ Technologies & Tools
+
+### Programming
+- Python
+- Java
+- Dart
+- SQL
+
+### AI & Data Science
+- NumPy
+- Pandas
+- Scikit-learn
+- Machine Learning
+- Deep Learning
+
+
+### Backend & Development
+- Spring Boot
+- REST API
+- MySQL
+- Flutter
+
+### Tools
+- Git
+- GitHub
+- Docker
+- VS Code
+- IntelliJ IDEA
+
+## 📚 Currently Learning
+
+- Advanced Python
+- Machine Learning
+- Deep Learning
+- XGBoost
+- End-to-End Machine Learning
+- Generative AI
+- MLOps
+
+## 🚀 Featured Project
+
+### VitalMate
+
+A healthcare and wellness application developed with:
+
+- Flutter
+- Spring Boot
+- MySQL
+- REST API
+
+The application allows users to track their daily habits
+and interact with specialists.
+
+## 🎯 Career Goal
+
+AI Engineer | Machine Learning Engineer | Data Scientist
+
